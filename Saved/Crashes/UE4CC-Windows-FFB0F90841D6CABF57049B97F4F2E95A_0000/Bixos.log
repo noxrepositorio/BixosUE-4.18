@@ -1,0 +1,300 @@
+﻿Log file open, 02/22/18 03:48:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Bixos
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1067103355) SRandInit(-1067103355).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.150443
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.22-06.48.29:668][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-06.48.29:668][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.22-06.48.29:892][  0]LogInit: Computer: DESKTOP-8UU7HR9
+[2018.02.22-06.48.29:892][  0]LogInit: User: iags
+[2018.02.22-06.48.29:892][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.22-06.48.29:892][  0]LogInit: High frequency timer resolution =4.101567 MHz
+[2018.02.22-06.48.29:892][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.22-06.48.29:892][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.22-06.48.29:892][  0]LogMemory: Process Physical Memory: 278.25 MB used, 278.25 MB peak
+[2018.02.22-06.48.29:892][  0]LogMemory: Process Virtual Memory: 274.38 MB used, 274.38 MB peak
+[2018.02.22-06.48.29:892][  0]LogMemory: Physical Memory: 5132.03 MB used,  2922.68 MB free, 8054.71 MB total
+[2018.02.22-06.48.29:892][  0]LogMemory: Virtual Memory: 706.92 MB used,  2922.68 MB free, 134217728.00 MB total
+[2018.02.22-06.48.30:005][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.02.22-06.48.30:005][  0]LogInit: Overriding language with editor culture configuration option ().
+[2018.02.22-06.48.30:005][  0]LogInit: Using OS detected language (en-US).
+[2018.02.22-06.48.30:007][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.22-06.48.30:553][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.22-06.48.30:597][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.02.22-06.48.30:597][  0]LogD3D11RHI:       6052/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.22-06.48.30:604][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.22-06.48.30:604][  0]LogD3D11RHI:       128/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.22-06.48.30:606][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.22-06.48.30:606][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.22-06.48.30:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.22-06.48.30:610][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.22-06.48.30:610][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.22-06.48.30:610][  0]LogWindows: EnumDisplayDevices:
+[2018.02.22-06.48.30:610][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2018.02.22-06.48.30:610][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.22-06.48.30:610][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.22-06.48.30:610][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.02.22-06.48.30:611][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.22-06.48.30:611][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.22-06.48.30:611][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.22-06.48.30:611][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.22-06.48.30:611][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.02.22-06.48.30:611][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.22-06.48.30:611][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.22-06.48.30:611][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.22-06.48.30:635][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.22-06.48.30:650][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.22-06.48.30:652][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (../../../../../../BixosProject/BixosUE/Intermediate/Shaders/WorkingDirectory/271656/).
+[2018.02.22-06.48.30:652][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/iags/AppData/Local/Temp/UnrealShaderWorkingDir/6758718B42E6BD5C0EEFC2B78D9A11A4/'.
+[2018.02.22-06.48.30:652][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.22-06.48.31:326][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.22-06.48.31:370][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.22-06.48.31:406][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.22-06.48.31:438][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.22-06.48.31:477][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.22-06.48.31:509][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.22-06.48.31:543][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.22-06.48.31:577][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.22-06.48.31:606][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.22-06.48.31:638][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.22-06.48.31:673][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.22-06.48.31:708][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.22-06.48.31:753][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.22-06.48.31:796][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.22-06.48.31:830][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.22-06.48.31:905][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.22-06.48.31:905][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.22-06.48.31:931][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.22-06.48.32:000][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.22-06.48.32:020][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.22-06.48.32:054][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.22-06.48.32:090][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.22-06.48.32:135][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.22-06.48.32:167][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.22-06.48.32:167][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.22-06.48.32:512][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/iags/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/iags/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../BixosProject/BixosUE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../BixosProject/BixosUE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.22-06.48.32:630][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.22-06.48.32:645][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.22-06.48.32:657][  0]LogDerivedDataCache: Using Local data cache path C:/Users/iags/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.22-06.48.32:664][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.22-06.48.32:664][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.22-06.48.32:664][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-06.48.32:664][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.22-06.48.32:870][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.02.22-06.48.32:954][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.22-06.48.33:212][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.22-06.48.33:239][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.22-06.48.33:239][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.22-06.48.33:239][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.22-06.48.33:239][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.22-06.48.33:239][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.22-06.48.33:245][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.22-06.48.33:585][  0]LogNetVersion: Bixos , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3542703803)
+[2018.02.22-06.48.33:779][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.068694 seconds
+[2018.02.22-06.48.33:787][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.22-06.48.33:787][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.22-06.48.33:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.22-06.48.33:832][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.22-06.48.35:787][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.22-06.48.35:818][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.22-06.48.36:286][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.22-06.48.36:570][  0]SourceControl: Source control is disabled
+[2018.02.22-06.48.36:570][  0]SourceControl: Source control is disabled
+[2018.02.22-06.48.36:604][  0]SourceControl: Source control is disabled
+[2018.02.22-06.48.36:641][  0]SourceControl: Source control is disabled
+[2018.02.22-06.48.37:040][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.22-06.48.37:200][  0]LogOcInput: OculusInput pre-init called
+[2018.02.22-06.48.37:382][  0]LogEngine: Initializing Engine...
+[2018.02.22-06.48.37:383][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.22-06.48.37:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.22-06.48.37:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.22-06.48.37:664][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.22-06.48.37:676][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.22-06.48.37:687][  0]LogInit: FAudioDevice initialized.
+[2018.02.22-06.48.39:779][  0]LogDerivedDataCache: Saved boot cache 2.09s 94MB C:/Users/iags/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.22-06.48.39:802][  0]LogInit: Texture streaming: Enabled
+[2018.02.22-06.48.39:889][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.22-06.48.40:042][  0]LogInit: Transaction tracking system initialized
+[2018.02.22-06.48.40:261][  0]BlueprintLog: New page: Editor Load
+[2018.02.22-06.48.40:870][  0]LocalizationService: Localization service is disabled
+[2018.02.22-06.48.41:218][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.02.22-06.48.41:218][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.02.22-06.48.41:218][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2018.02.22-06.48.41:343][  0]LogConsoleResponse: Display: 
+[2018.02.22-06.48.41:484][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.22-06.48.41:485][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.22-06.48.41:485][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.22-06.48.42:198][  0]LogFileCache: Scanning file cache for directory 'C:/BixosProject/BixosUE/Content/' took 0.01s
+[2018.02.22-06.48.42:198][  0]SourceControl: Source control is disabled
+[2018.02.22-06.48.42:198][  0]Cmd: MAP LOAD FILE="../../../../../../BixosProject/BixosUE/Content/TopDownBP/Maps/TelaInicial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.22-06.48.42:199][  0]LightingResults: New page: Lighting Build
+[2018.02.22-06.48.42:227][  0]MapCheck: New page: Map Check
+[2018.02.22-06.48.42:227][  0]LightingResults: New page: Lighting Build
+[2018.02.22-06.48.42:255][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/TopDownBP/Blueprints/SaveSystem/SaveGameBP.SaveGameBP_C:PlayerInfo'. Unknown structure.
+[2018.02.22-06.48.42:255][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag STRUCT_REINST_PlayerInfo_0 != prop FallbackStruct) in package:  ../../../../../../BixosProject/BixosUE/Content/TopDownBP/Blueprints/SaveSystem/SaveGameBP.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.22-06.48.42:257][  0]LogClass: Warning: Property PlayerInfo of PlayerInfo has a struct type mismatch (tag FallbackStruct != prop PlayerInfo) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Nao Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Sim Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Resposta  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Nao Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Sim Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Nao Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Sim Button Text Var  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Resposta  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:430][  0]LogBlueprint: Error: [Compiler TopDownGameMode] In use pin  Resposta  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.02.22-06.48.42:441][  0]LogBlueprint: Warning: [Compiler TopDownGameMode] [0014.50] Compile of TopDownGameMode failed. 9 Fatal Issue(s) 0 Warning(s) [in 40 ms] (/Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode)
+[2018.02.22-06.48.42:611][  0]LogAIModule: Creating AISystem for world TelaInicial
+[2018.02.22-06.48.42:612][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.22-06.48.42:624][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.22-06.48.42:660][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 36.386ms to complete.
+[2018.02.22-06.48.42:661][  0]LogFileHelpers: Loading map 'TelaInicial' took 0.462
+[2018.02.22-06.48.42:715][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.22-06.48.42:716][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.22-06.48.42:784][  0]LogCollectionManager: Loaded 0 collections in 0.001407 seconds
+[2018.02.22-06.48.42:851][  0]LogFileCache: Scanning file cache for directory 'C:/BixosProject/BixosUE/Saved/Collections/' took 0.01s
+[2018.02.22-06.48.42:851][  0]LogFileCache: Scanning file cache for directory 'C:/BixosProject/BixosUE/Content/Developers/iags/Collections/' took 0.01s
+[2018.02.22-06.48.42:851][  0]LogFileCache: Scanning file cache for directory 'C:/BixosProject/BixosUE/Content/Collections/' took 0.01s
+[2018.02.22-06.48.42:851][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.22-06.48.42:860][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2386 classes and 500 folders.
+[2018.02.22-06.48.42:905][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.22-06.48.42:931][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.22-06.48.42:961][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.22-06.48.43:023][  0]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-06.48.43:025][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.22-06.48.43:030][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.22-06.48.43:114][  0]LogRenderer: Reallocating scene render targets to support 1136x552 Format 10 NumSamples 1 (Frame:1).
+[2018.02.22-06.48.43:283][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.22-06.48.43:283][  0]LogLoad: (Engine Initialization) Total time: 15.34 seconds
+[2018.02.22-06.48.43:283][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.22-06.48.43:284][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.22-06.48.43:295][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/TopDownGameMode : Failed import for TextProperty /Game/TopDownBP/HUD/LargeMessageBox.LargeMessageBox_C:Resposta Referenced by export Function /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C:CaixaDeMensagem
+[2018.02.22-06.48.43:295][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/TopDownGameMode : Failed import for TextProperty /Game/TopDownBP/HUD/MediumMessageBox.MediumMessageBox_C:Resposta Referenced by export Function /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C:CaixaDeMensagem
+[2018.02.22-06.48.43:295][  0]LoadErrors: Error: /Game/TopDownBP/Blueprints/TopDownGameMode : Failed import for TextProperty /Game/TopDownBP/HUD/SmallMessageBox.SmallMessageBox_C:Resposta Referenced by export Function /Game/TopDownBP/Blueprints/TopDownGameMode.TopDownGameMode_C:CaixaDeMensagem
+[2018.02.22-06.48.43:311][  0]LogAssetRegistry: Asset discovery search completed in 10.4624 seconds
+[2018.02.22-06.48.43:312][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.22-06.48.43:312][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.02.22-06.48.43:314][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.22-06.48.43:437][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-06.48.44:311][ 97]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-06.49.32:958][882]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.22-06.49.33:228][882]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 113 classes and 0 folders.
+[2018.02.22-06.49.33:726][882]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.22-06.49.33:801][882]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.22-06.49.33:950][883]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.22-06.49.39:454][488]LogEditorTransaction: Undo Change Class Pin Value
+[2018.02.22-06.49.39:461][488]LogWindows: Windows GetLastError: The operation completed successfully. (0)
